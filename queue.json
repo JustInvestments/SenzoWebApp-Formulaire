@@ -1,1 +1,54 @@
-[]
+[
+    {
+        "id": "dos_69ce60b5a1aa63.11071373",
+        "status": "pending",
+        "submitted_at": "2026-04-02 14:27:33",
+        "data": {
+            "ref": "test 4",
+            "collab": "test 4",
+            "adresse": "test 4",
+            "npa": "test 4",
+            "localite": "test 4",
+            "canton": "BS",
+            "prix": "test 4",
+            "etat": "Bon état",
+            "type_bien": "Immeuble locatif",
+            "nb_bat": "1",
+            "no_parcelle": "",
+            "no_eca": "",
+            "annee_constr": "",
+            "chauf_t": "",
+            "chauf_a": "",
+            "elec_a": "",
+            "equipements": "ck_bua",
+            "agence": "",
+            "courtier2": "",
+            "descr": "",
+            "travaux": "",
+            "pts_forts": "",
+            "manquants": "",
+            "rendement": "—",
+            "el_annuel": "—",
+            "etat_locatif": {
+                "bat_A": [
+                    {
+                        "etage": "",
+                        "pieces": "",
+                        "occupation": "Loué",
+                        "loyer": "",
+                        "charges": ""
+                    },
+                    {
+                        "etage": "",
+                        "pieces": "",
+                        "occupation": "Loué",
+                        "loyer": "",
+                        "charges": ""
+                    }
+                ]
+            },
+            "soumis_par": "hello@justinvestments.ch",
+            "date_soumis": "02.04.2026 à 14:27"
+        }
+    }
+]
