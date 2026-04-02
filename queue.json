@@ -70,7 +70,7 @@
             "no_parcelle": "",
             "no_eca": "",
             "annee_constr": "",
-            "chauf_t": "Solaire / PV",
+            "chauf_t": "Solaire \/ PV",
             "chauf_a": "",
             "elec_a": "",
             "equipements": "ck_bua",
@@ -104,5 +104,57 @@
             "date_soumis": "02.04.2026 à 15:08"
         },
         "processed_at": "2026-04-02 13:12:18"
+    },
+    {
+        "id": "dos_69ce6d813c3329.03899913",
+        "status": "pending",
+        "submitted_at": "2026-04-02 15:22:09",
+        "data": {
+            "ref": "test",
+            "collab": "test3",
+            "adresse": "Ch de Prévenoge 2",
+            "npa": "test3",
+            "localite": "test",
+            "canton": "ZH",
+            "prix": "test",
+            "etat": "État moyen — travaux à prévoir",
+            "type_bien": "Immeuble locatif",
+            "nb_bat": "1",
+            "no_parcelle": "",
+            "no_eca": "",
+            "annee_constr": "",
+            "chauf_t": "",
+            "chauf_a": "",
+            "elec_a": "",
+            "equipements": "ck_asc",
+            "agence": "",
+            "courtier2": "",
+            "descr": "",
+            "travaux": "",
+            "pts_forts": "",
+            "manquants": "",
+            "rendement": "—",
+            "el_annuel": "—",
+            "etat_locatif": {
+                "bat_A": [
+                    {
+                        "etage": "",
+                        "pieces": "",
+                        "occupation": "Loué",
+                        "loyer": "",
+                        "charges": ""
+                    },
+                    {
+                        "etage": "",
+                        "pieces": "",
+                        "occupation": "Loué",
+                        "loyer": "",
+                        "charges": ""
+                    }
+                ]
+            },
+            "soumis_par": "hello@justinvestments.ch",
+            "date_soumis": "02.04.2026 à 15:22"
+        }
     }
 ]
