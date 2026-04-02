@@ -70,7 +70,7 @@
             "no_parcelle": "",
             "no_eca": "",
             "annee_constr": "",
-            "chauf_t": "Solaire \/ PV",
+            "chauf_t": "Solaire / PV",
             "chauf_a": "",
             "elec_a": "",
             "equipements": "ck_bua",
@@ -107,8 +107,9 @@
     },
     {
         "id": "dos_69ce6d813c3329.03899913",
-        "status": "pending",
+        "status": "done",
         "submitted_at": "2026-04-02 15:22:09",
+        "processed_at": "2026-04-02 13:24:33",
         "data": {
             "ref": "test",
             "collab": "test3",
