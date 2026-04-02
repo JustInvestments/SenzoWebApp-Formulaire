@@ -54,7 +54,7 @@
     },
     {
         "id": "dos_69ce6a4d7f8518.03160721",
-        "status": "pending",
+        "status": "done",
         "submitted_at": "2026-04-02 15:08:29",
         "data": {
             "ref": "test",
@@ -70,7 +70,7 @@
             "no_parcelle": "",
             "no_eca": "",
             "annee_constr": "",
-            "chauf_t": "Solaire \/ PV",
+            "chauf_t": "Solaire / PV",
             "chauf_a": "",
             "elec_a": "",
             "equipements": "ck_bua",
@@ -102,6 +102,7 @@
             },
             "soumis_par": "hello@justinvestments.ch",
             "date_soumis": "02.04.2026 à 15:08"
-        }
+        },
+        "processed_at": "2026-04-02 13:12:18"
     }
 ]
