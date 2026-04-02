@@ -1,8 +1,9 @@
 [
     {
         "id": "dos_69ce60b5a1aa63.11071373",
-        "status": "pending",
+        "status": "done",
         "submitted_at": "2026-04-02 14:27:33",
+        "processed_at": "2026-04-02 12:30:14",
         "data": {
             "ref": "test 4",
             "collab": "test 4",
