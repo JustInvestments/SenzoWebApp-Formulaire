@@ -51,5 +51,57 @@
             "soumis_par": "hello@justinvestments.ch",
             "date_soumis": "02.04.2026 à 14:27"
         }
+    },
+    {
+        "id": "dos_69ce6a4d7f8518.03160721",
+        "status": "pending",
+        "submitted_at": "2026-04-02 15:08:29",
+        "data": {
+            "ref": "test",
+            "collab": "test",
+            "adresse": "ch. du Bois-Murat 9",
+            "npa": "asdasd",
+            "localite": "test3",
+            "canton": "BL",
+            "prix": "212",
+            "etat": "Très bon état",
+            "type_bien": "Immeuble mixte",
+            "nb_bat": "1",
+            "no_parcelle": "",
+            "no_eca": "",
+            "annee_constr": "",
+            "chauf_t": "Solaire \/ PV",
+            "chauf_a": "",
+            "elec_a": "",
+            "equipements": "ck_bua",
+            "agence": "",
+            "courtier2": "David Cristofori",
+            "descr": "",
+            "travaux": "",
+            "pts_forts": "",
+            "manquants": "",
+            "rendement": "—",
+            "el_annuel": "—",
+            "etat_locatif": {
+                "bat_A": [
+                    {
+                        "etage": "",
+                        "pieces": "",
+                        "occupation": "Loué",
+                        "loyer": "",
+                        "charges": ""
+                    },
+                    {
+                        "etage": "",
+                        "pieces": "",
+                        "occupation": "Loué",
+                        "loyer": "",
+                        "charges": ""
+                    }
+                ]
+            },
+            "soumis_par": "hello@justinvestments.ch",
+            "date_soumis": "02.04.2026 à 15:08"
+        }
     }
 ]
